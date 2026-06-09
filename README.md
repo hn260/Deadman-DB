@@ -172,6 +172,11 @@ deadmandb schedule --interval 6h
 
 ---
 
+## Deployment Video
+
+https://github.com/user-attachments/assets/a2454899-610f-4331-9f9d-20038fc191cf
+
+
 ### Clone Repository
 
 ```bash
